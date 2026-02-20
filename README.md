@@ -21,3 +21,8 @@ Support repository for mokeke-mosaic tools
 
 本ツールは個人による趣味開発・試験運用中のサービスです。  
 予告なく仕様変更・停止する場合があります。
+
+
+## 🏷 ラベルの付け方（お願い）
+- bug / enhancement / question のいずれかを選んでください
+- 可能なら product: checker / scanner / inventory も付けてください
